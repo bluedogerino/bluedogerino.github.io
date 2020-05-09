@@ -1,5 +1,5 @@
 title: "Blue Dogerino"
-author: "Griffin"
+author: "Blue Dogerino"
 description: ""
 permalink: /:title/
 lang: "en"
@@ -34,10 +34,5 @@ comments:
 disqus_shortname: "bluedogerino"
 #  isso_domain: ""           # see https://posativ.org/isso/
 
-
-remote_theme: niklasbuschmann/contrast@v2.8
-
 plugins:
  - jekyll-feed
- - jekyll-remote-theme
-
