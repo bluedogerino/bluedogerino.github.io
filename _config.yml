@@ -32,8 +32,8 @@ external:                    # see http://fontawesome.com/icons
 
 comments:
 disqus_shortname: "bluedogerino"
-# see https://disqus.com/
 #  isso_domain: ""           # see https://posativ.org/isso/
+
 
 remote_theme: niklasbuschmann/contrast@v2.8
 
