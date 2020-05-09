@@ -31,7 +31,8 @@ external:                    # see http://fontawesome.com/icons
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""      # see https://disqus.com/
+disqus_shortname: "bluedogerino"
+# see https://disqus.com/
 #  isso_domain: ""           # see https://posativ.org/isso/
 
 remote_theme: niklasbuschmann/contrast@v2.8
