@@ -36,4 +36,5 @@ disqus_shortname: "bluedogerino"
 
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
 
